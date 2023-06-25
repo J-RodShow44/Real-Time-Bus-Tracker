@@ -1,5 +1,4 @@
-
-Real Time Bus Tracker
+# Real Time Bus Tracker
 
 This project uses the MapBox API to show the path along all the bus stops between MIT and Harvard. The addition that I made to this project was to add a line to show the path between each bus stop location.
 
