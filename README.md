@@ -1,8 +1,10 @@
 # Real Time Bus Tracker
 
+<a href="http://J-Rodshow44.github.io/Real-Time-Bus-Tracker"> Real Time Bus Tracker Exercise </a>
+
 This project uses the MapBox API to show the path along all the bus stops between MIT and Harvard. The addition that I made to this project was to add a line to show the path between each bus stop location.
 
-How to Run: The HTML, CSS, and JS files can bee downloaded to one's local machine. One can run opeen the HTML file in a browser to run the app.
+How to Run: Click the link above, or the HTML, CSS, and JS files can bee downloaded to one's local machine. One can run opeen the HTML file in a browser to run the app.
 
 Roadmap of future improvements: The next feature to add to this app is to show markers at every location there is a bus stop instead of only the final location.
 
